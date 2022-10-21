@@ -2,7 +2,7 @@ import { initializeConnector } from '@web3-react/core'
 import { BitskiConnect } from '../packages/bitski'
 
 const CLIENTID = 'a1d57ae2-3404-49dc-a848-edc39463c4fc'
-const callBackUrl = 'http://localhost:3000/callback'
+const callBackUrl = 'https://635280cb0f2692367a828e31--venerable-donut-de0de9.netlify.app/callback'
 const network = {
     rpcUrl: 'https://matic-mumbai.chainstacklabs.com',
     chainId: 80001,
